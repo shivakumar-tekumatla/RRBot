@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 
 pi = np.pi 
 
-K  = np.array([[19.6705,13.5741,4.5331,7.2672],
-                [4.4649,7.2775,1.2178,2.3712]])   
 
 def dynamics(state,t):
     #Initialize the robot 
